@@ -1,5 +1,5 @@
 # PR5_AlgoritmoMaekawa
-Entrega practica 5 de la asignatura de Arquitecturas avanzadas
+Entrega practica 5 de la asignatura de Arquitecturas avanzadas de Ander Sarrión Martín
 Práctica 5: Algoritmo de Maekawa.
 Implementar el algoritmo de maekawa desde el esqueleto facilitado.
 
