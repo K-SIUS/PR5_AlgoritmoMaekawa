@@ -3,6 +3,7 @@ from maekawaMutex import MaekawaMutex
 from threading import Thread
 import config
 
+#Ander Sarrión Martín
 def run_algorithm():
     maekawa_mutex = MaekawaMutex()
     maekawa_mutex.run()
